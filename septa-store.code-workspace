@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Pictures/Documents/GitHub/septa-store"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "septa-store"
+	}
+}
